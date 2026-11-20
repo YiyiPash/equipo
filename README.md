@@ -1,4 +1,3 @@
-# Sistema del equipo · Yiyi Pash
+# equipo
 
-yiyipash.com/equipo/ — Inicio, consentimiento, nota, fichas, paneles y ayuda.
-Fuente: sistema/equipo/ (no editar aquí a mano).
+Solo redirige a https://yiyipash.com/team/ (desde el 20/11/2026), conservando ?… y #….
